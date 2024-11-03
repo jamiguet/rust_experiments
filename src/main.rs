@@ -20,7 +20,7 @@ use guessing_game::main as guessing_game_main;
 use odd_syntax::main as odd_syntax_main;
 
 fn main() {
-    println!("Now for Fibonacci calculation!");
+    //println!("Now for Fibonacci calculation!");
     // fibo_main();
     // println!("Now for Vector Stats");
     // vector_stats_main();
@@ -32,5 +32,6 @@ fn main() {
     // error_handling_main();
     // println!("Now for Guessing Game");
     // let _ = guessing_game_main();
+    println!("Now for odd syntax");
     odd_syntax_main();
 }

@@ -1,6 +1,5 @@
 use num::traits::Pow;
 use rprompt::prompt_reply;
-use std::arch::aarch64::float32x2_t;
 use std::error::Error;
 use std::fmt::Debug;
 use std::io;
